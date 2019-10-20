@@ -6,6 +6,7 @@ export default class Home extends Component {
       <div>
         <Navbars />
         <h2> hallo ini halaman Home </h2>
+        <h3>Jangan lupa update</h3>
       </div>
     );
   }
