@@ -7,6 +7,7 @@ export default class About extends Component {
       <div>
         <Navbars />
         <h2>hello ini Halaman About</h2>
+        <h3>Ini web saya</h3>
       </div>
     );
   }
